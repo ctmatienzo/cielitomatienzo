@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @cielitoyusuf !
+- 👋 Hello, I’m @cielitomatienzo !
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript. I will also learn Python, R, Scala, SQL, and other programming languages that I need to prepare for masters in Data Science or Machine Learning.
 
